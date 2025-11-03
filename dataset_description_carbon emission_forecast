@@ -1,0 +1,69 @@
+## 📊 Dataset Description – Annual Carbon Emission Data (Our World in Data)
+
+**Student Name:** Aakriti Gupta  
+**Department:** Electronics and Communication Engineering (ECE)  
+**Institution:** Netaji Subhash Engineering College, MAKAUT  
+
+---
+
+### 1️⃣ Project Title
+**Carbon Emission Reduction Forecast using Machine Learning**
+
+---
+
+### 2️⃣ Objective
+To forecast future carbon dioxide (CO₂) emissions and analyze the impact of renewable energy adoption on global emission reduction using AI and Machine Learning algorithms.  
+This project uses real-world CO₂ emission data collected from the **Global Carbon Budget (2024)**, published by **Our World in Data**.
+
+---
+
+### 3️⃣ Dataset Source
+- **Website:** [Our World in Data – Annual CO₂ Emissions per Country](https://ourworldindata.org/grapher/annual-co2-emissions-per-country)  
+- **Original Data Source:** Global Carbon Budget (2024)  
+- **DOI:** https://doi.org/10.18160/GCP-2024  
+
+---
+
+### 4️⃣ Dataset File Information
+| Attribute | Description |
+|------------|--------------|
+| **File Name** | `carbon_emission_data.csv` |
+| **File Type** | CSV (Comma Separated Values) |
+| **Number of Instances** | ~50,000+ (country-year combinations from 1750–2023) |
+| **Number of Attributes** | 4 |
+| **Attributes** | Entity, Code, Year, Annual CO₂ Emissions (million tonnes) |
+
+---
+
+### 5️⃣ Dataset Description
+This dataset provides **annual CO₂ emissions** for multiple countries and regions from **1750 to 2023**.  
+It is derived from the **Global Carbon Budget** and processed by **Our World in Data**.  
+The data represents carbon dioxide emissions from fossil fuels and industrial sources (excluding land-use change).  
+Values are measured in **tonnes of CO₂ emitted per year**.
+
+---
+
+### 6️⃣ Target Variable
+**Annual CO₂ Emissions** (measured in tonnes)
+
+---
+
+### 7️⃣ Applications
+- Forecasting future CO₂ emission levels using ML models  
+- Studying emission trends by country or continent  
+- Supporting renewable energy and sustainability research  
+- Helping policy development for carbon neutrality and climate change mitigation  
+
+---
+
+### 8️⃣ Citation and Metadata
+**Source Citation:** Global Carbon Budget (2024) – processed by Our World in Data  
+**Dataset Title:** Annual CO₂ Emissions per Country  
+**Metadata File:** `annual-co2-emissions-per-country.metadata.json`
+
+---
+
+### 9️⃣ Prepared By
+**Aakriti Gupta**  
+B.Tech 3rd Year – Electronics and Communication Engineering  
+Netaji Subhash Engineering College, MAKAUT  
