@@ -1,0 +1,6 @@
+Carbon Emission Prediction Model (Week 2)
+----------------------------------------
+Model Used: XGBoost Regressor
+R² Score: 0.9451
+Accuracy: 94.51%
+Mean Squared Error: 129627179587313168.0000
